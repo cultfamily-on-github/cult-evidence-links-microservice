@@ -1,13 +1,10 @@
 # CULT Evidence Links Microservice
 
-The CULT Evidence Links Microservice allows you to upload your evidence photos to IPFS and to receive an IPFS Hash / Link which you can add as evidence link when you submit your Acts of Revolt.
+The CULT Evidence Links Microservice allows you to upload your evidence photos to [IPFS](https://github.com/ipfs/ipfs/blob/master/README.md) and to receive an IPFS Hash / Link which you can add as evidence link when you submit your Acts of Revolt.
 
-This microservice shall also inspire people to run an IPFS node. The uploaded content shall be pinned - see IPFS Desktop Screenshot (tbd).
+This microservice shall also inspire people to run an IPFS node. This is pretty easy via [IPFS Desktop](https://github.com/ipfs/ipfs-desktop/blob/main/README.md). There shall be an incentive system to pin cult evidence links on one's ipfs node. I do not know how sophisticated [FileCoin](https://coinmarketcap.com/currencies/filecoin/) is when it comes to incentivizing such things in sustainable ways. The [arweave](https://www.arweave.org/) could turn out to be a plan b according to my current assumptions.  
 
 Everyone is invited to support the emergence of manifold architectures of freedom by contributing to this repository.
-
-Play 2 Earn is inspired by [Revolt 2 Earn](https://rumble.com/v1lf3yb-revolt-2-earn-in-100-seconds-michael-saylor-talks-about-revolt-2-earn.html?mref=1e5w3p&mc=4izal). 
-
 
 In order to strengthen resilience, scalability and technological freedom for contributors, we establish a microservices architecture. 
 
