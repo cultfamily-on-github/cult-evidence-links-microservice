@@ -11,6 +11,9 @@ In order to strengthen resilience, scalability and technological freedom for con
 ## Status
 First Drafts & Idea Collection
 
+## Related Drafts
+[Act of Revolt Diary Microservice](https://github.com/cultfamily-on-github/act-of-revolt-diary-microservice/blob/main/README.md)  
+
 ## Frontend
 When it comes to state of the art web programming frameworks [Svelte](https://svelte.dev) is the framework [of choice](https://www.youtube.com/watch?v=rv3Yq-B8qp4) imo.    
 The two main reasons for that choice - comparing svelte to angular, vue and react - are performance and simplicity.   
